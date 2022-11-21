@@ -1,2 +1,2 @@
 # Project-X
-only c++ projects
+all about python
